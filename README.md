@@ -3,7 +3,7 @@
 
 ### Um pequeno projeto de seleção de personagens com o meu desenho animado favorito 😁
 
-## Tecnologias usadas 👨‍💻 :
+## Tecnologias usadas:
 
 <table>
   <tr>
